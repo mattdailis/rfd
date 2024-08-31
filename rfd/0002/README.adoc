@@ -1,0 +1,20 @@
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
+:state: prediscussion
+:discussion:
+:revremark: State: {state} | {discussion}
+:authors: Andy Hertzfeld <andy@example.com>; Neal Firth <neal@example.com>
+
+= RFD 0002 My second RFD
+{authors}
+
+== Determinations
+
+== Open Questions
+
+== Security Considerations
+
+[bibliography]
+== External References
